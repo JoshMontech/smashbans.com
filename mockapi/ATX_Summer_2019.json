@@ -1,0 +1,26 @@
+
+{
+  "id": "ATX_Summer_2019",
+  "name": "ATX Summer 2019",
+  "startingBans": [true,false,false,true],
+  "counterpickBans": 3,
+  "firstTo": 3,
+  "colors": { "primary": "#123123", "secondary": "#DDD"},
+  "backgroundImg": "https://sonics.jpg",
+  "stages": {
+    "start": [
+      {"title": "Pokemon Stadium", "imgUrl": "/static/images/stages/ps-min.png", "banned": ""},
+      {"title": "Smashville", "imgUrl": "/static/images/stages/sv-min.png", "banned": ""},
+      {"title": "Lylat Cruise", "imgUrl": "/static/images/stages/lc-min.png", "banned": ""},
+      {"title": "Battlefield", "imgUrl": "/static/images/stages/bf-min.png", "banned": ""},
+      {"title": "Town & City", "imgUrl": "/static/images/stages/tc-min.png", "banned": ""}
+    ],
+    "counterpick": [
+      {"title": "Final Destination", "imgUrl": "/static/images/stages/fd-min.png", "banned": ""},
+      {"title": "Unova", "imgUrl": "/static/images/stages/uv-min.png", "banned": ""},
+      {"title": "Kalos", "imgUrl": "/static/images/stages/kl-min.png", "banned": ""},
+      {"title": "Yoshi's Island", "imgUrl": "/static/images/stages/yi-min.png", "banned": ""},
+      {"title": "Yoshi's Story", "imgUrl": "/static/images/stages/ys-min.png", "banned": ""}
+    ]
+  }
+}

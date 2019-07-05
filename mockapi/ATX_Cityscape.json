@@ -1,0 +1,24 @@
+
+{
+  "id": "ATX_Cityscape_2019",
+  "name": "ATX Cityscape 2019",
+  "startingBans": [true,false,false,true],
+  "counterpickBans": 3,
+  "firstTo": 3,
+  "colors": { "primary": "#123123", "secondary": "#DDD"},
+  "backgroundImg": "https://sonics.jpg",
+  "stages": {
+    "start": [
+      {"title": "Pokemon Stadium 2", "imgUrl": "", "banned": ""},
+      {"title": "Final Destination", "imgUrl": "", "banned": ""},
+      {"title": "Battlefield", "imgUrl": "", "banned": ""},
+      {"title": "Lylat Cruise", "imgUrl": "", "banned": ""},
+      {"title": "Smashville", "imgUrl": "", "banned": ""}
+    ],
+    "counterpick": [
+      {"title": "Town & City", "imgUrl": "", "banned": ""},
+      {"title": "Kalos", "imgUrl": "", "banned": ""},
+      {"title": "Yoshi's Story", "imgUrl": "", "banned": ""}
+    ]
+  }
+}
